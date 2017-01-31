@@ -7,6 +7,3 @@ change again
 unwanted change
 
 commit that not aware of
-
-
-changed again
